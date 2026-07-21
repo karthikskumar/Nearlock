@@ -1,5 +1,5 @@
 # Nearlock
-## This is a fork of the original (BLEUnlock)[https://github.com/ts1/BLEUnlock]
+## This is a fork of the original [BLEUnlock](https://github.com/ts1/BLEUnlock)
 ## Please note that I don't distribute this app on the Mac App Store. You can find it here for free! 
 
 ![CI](https://github.com/ts1/BLEUnlock/workflows/CI/badge.svg)
